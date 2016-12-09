@@ -6,7 +6,7 @@ Created on Dec 9, 2016
 
 from jira import JIRA
 
-class MyClass(object):
+class con_jira(object):
     '''
     classdocs
     '''
